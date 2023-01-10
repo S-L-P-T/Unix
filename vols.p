@@ -1,4 +1,4 @@
-set terminal png size Changer2,Changer2
+set terminal png size 500,500
 
 set output 'Vols.png'
 
